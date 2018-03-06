@@ -1,0 +1,13 @@
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\labb4console.exe.config
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\labb4console.exe
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\labb4console.pdb
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Iago\source\repos\labb4console\labb4console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Iago\source\repos\labb4console\labb4console\obj\Debug\labb4console.csprojResolveAssemblyReference.cache
+C:\Users\Iago\source\repos\labb4console\labb4console\obj\Debug\labb4console.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\labb4console\labb4console\obj\Debug\labb4console.exe
+C:\Users\Iago\source\repos\labb4console\labb4console\obj\Debug\labb4console.pdb
